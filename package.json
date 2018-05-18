@@ -1,6 +1,6 @@
 {
   "name": "test-module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "test for private npm repository",
   "main": "index.js",
   "scripts": {
